@@ -19,5 +19,5 @@
   <img align="center" alt="Victoredo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victoredo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victoredo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Victoredo-pic" height="150" style="border-radius:50px;" src="https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg">
+  <img align="right" alt="Victoredo-pic" height="150" style="border-radius:50px;" src="https://w7.pngwing.com/pngs/764/179/png-transparent-github-computer-icons-github-white-logo-silhouette.png">
 </div>
