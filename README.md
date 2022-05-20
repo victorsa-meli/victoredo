@@ -5,9 +5,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/victorsa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsa&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Victoredo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victoredo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoredo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
