@@ -19,6 +19,8 @@
   <img align="center" alt="Victoredo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victoredo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victoredo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Victoredo-pic" height="150" style="border-radius:50px;" src="<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://postimg.cc/0z6JvxvV">
+  <img align="right" alt="Victoredo-pic" height="150" style="border-radius:50px;" src="<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href='https://postimg.cc/0z6JvxvV' target='_blank'><img src='https://i.postimg.cc/0z6JvxvV/thumb-among-Us-Crew.png' border='0' alt='thumb-among-Us-Crew'/></a>
+  
+  
   
 </div>
