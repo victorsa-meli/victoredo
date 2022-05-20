@@ -19,5 +19,5 @@
   <img align="center" alt="Victoredo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victoredo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victoredo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Victoredo-pic" height="150" style="border-radius:50px;" src="<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://i.pinimg.com/originals/6a/f9/5b/6af95b7b055d530b5413dbb91bb15cf3.png">
+  <img align="right" alt="Victoredo-pic" height="150" style="border-radius:50px;" src="<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://discord.com/channels/928091326849892413/928091326849892416/965007529589489664">
 </div>
